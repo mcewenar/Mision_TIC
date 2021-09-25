@@ -10,4 +10,4 @@ CREATE TABLE pocion(
 INSERT INTO pocion(codigo_pocion, nombre_pocion, reg_litros, num_utilizado, codigo_escuela_fk) 
 VALUES (12,'Bomba AntiResaca',278.8,400,232);
 INSERT INTO pocion(codigo_pocion, nombre_pocion, codigo_escuela_fk) 
-VALUES (872,'Borojó con Tarrito Rojo',9865);
+VALUES (872,'Borojo con Tarrito Rojo',9865);
